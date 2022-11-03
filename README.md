@@ -1,4 +1,5 @@
 # landing-page-tailwind
 Landing page created with tailwindcss
 
-Not ready yet!
+## Getting started
+### Just run `npm run dev` command 
